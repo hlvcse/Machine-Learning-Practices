@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Practice Repository
+# 🧠 Machine Learning Practice Repository - Hanumat Lal Vishwakarma
 
 Welcome to the **Machine Learning Practice Repository**, a curated collection of in-depth machine learning algorithm implementations, exploratory data analysis, and real-world dataset practices — all in **IPython Notebooks** for interactive learning and experimentation.
 
