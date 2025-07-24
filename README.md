@@ -80,4 +80,4 @@ Pull requests are welcome! If you have algorithm improvements, dataset suggestio
 This project is open-source under the MIT License.
 
 🙋‍♂️ Maintainer
-Made with ❤️ by hlvcse
+Practiced by ❤️hlvcse ( Hanumat Lal Vishwakarma )
